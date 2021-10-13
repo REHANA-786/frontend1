@@ -1,0 +1,25 @@
+*{
+    background-color: navajowhite;
+}
+p{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    border:  7px maroon;
+    border-radius: 30px;
+
+}
+h1{
+    background-color: mediumorchid;
+    font-size: small;
+    border-bottom: mediumseagreen;
+    text-decoration: dotted;
+}
+h2{
+    background-color: orchid;
+    font-size: larger;
+    border-end-end-radius: 5px;
+    border-end-start-radius: 5px;
+    border-top: outset;
+    border-top-left-radius: 4px;
+    border-inline-end:navy;
+}
